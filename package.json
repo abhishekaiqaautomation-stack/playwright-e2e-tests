@@ -1,0 +1,19 @@
+{
+  "name": "playwright-e2e-tests",
+  "version": "1.0.0",
+  "description": "Playwright E2E Tests With AI Capabilities incl MCP",
+  "keywords": [
+    "playwright",
+    "playwritht-e2e-tests",
+    "playwritht-mcp"
+  ],
+  "license": "ISC",
+  "author": "Abhi Automation",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {},
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.3.2"
+  }
+}
